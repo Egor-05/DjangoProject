@@ -4,5 +4,5 @@ from .views import MainPage
 
 urlpatterns = [
     path("admin", admin.site.urls),
-    path("home", MainPage.as_view())
+    path("mainpage", MainPage.as_view())
 ]

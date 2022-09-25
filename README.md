@@ -4,6 +4,8 @@
 
 3) Установите необходимые библотеки, с помощью команды: `pip install -r requirements.txt`
 
-4) Запустите проект используя команду: `python manage.py runserver`
+4) Запустите проект используя команду:
+* `python manage.py runserver`, если вы используете Windows
+* `./manage.py runserver`, если вы используете Linux
 
 5) Сайт будет доступен по, указанному в консоле, URL.
